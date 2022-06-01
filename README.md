@@ -9,11 +9,10 @@ In the image above is the relationship model that was mostly already set up with
 
 To find the data I needed I had calculate certain measures with DAX formulas such as <b> Total Sales, Total Cost, Total Profit, and the Profit Margin </b> from the products table. 
 
-<li>To calculate Total Sales, I used the SUMX function of grabbing all sales from the sales table and multiplying it by price. 
-  For the Total Cost of Products I used another SUMX function and multiplied sales quantity with the Product Cost.  
-  I then subtracted the Total Sales minus the Total Cost number to find my Total Profit. 
-  By dividing the Total Profit and Total sales, I was able to get the profit margin % of each product and total sales.
-</li>
+<li>To calculate Total Sales, I used the SUMX function of grabbing all sales from the sales table and multiplying it by price.</li> 
+<li>For the Total Cost of Products I used another SUMX function and multiplied sales quantity with the Product Cost.</li>  
+<li>I then subtracted the Total Sales minus the Total Cost number to find my Total Profit.</li> 
+<li>By dividing the Total Profit and Total sales, I was able to get the profit margin % of each product and total sales.</li>
 
 I then used the these measures to display a report via Power BI Dashboard
 
