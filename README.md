@@ -13,7 +13,8 @@ To find the data I needed I had calculate certain measures with DAX formulas suc
 <li>For the Total Cost of Products I used another SUMX function and multiplied sales quantity with the Product Cost.</li>  
 <li>I then subtracted the Total Sales minus the Total Cost number to find my Total Profit.</li> 
 <li>By dividing the Total Profit and Total sales, I was able to get the profit margin % of each product and total sales.</li>
-
+<br></br>
+<br></br>
 I then used the these measures to display a report via Power BI Dashboard
 
 
